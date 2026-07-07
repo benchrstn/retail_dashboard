@@ -82,5 +82,5 @@ The report is built on the **Superstore dataset**, structured as a star schema:
 
 ## 📌 Data Source
  
-[Superstore Sales Dataset — Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
+[Global Superstore Dataset — Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
  
